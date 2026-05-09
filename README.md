@@ -1,5 +1,5 @@
 # dlopezr75
 Mi primer repositorio en github
-Derek Fernando Lopez Rodriguez
+<p>Derek Fernando Lopez Rodriguez</p>
 Introduccion a Sistemas de Computo
-Correo: dlopezr75@gmail.com
+<p>Correo: dlopezr75@gmail.com </p>
